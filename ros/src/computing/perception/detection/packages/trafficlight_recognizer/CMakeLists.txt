@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(road_wizard)
+project(trafficlight_recognizer)
 execute_process(
         COMMAND rosversion -d
         OUTPUT_VARIABLE ROS_VERSION
